@@ -22,7 +22,7 @@
  SOFTWARE.
  */
 
-import Foundation
+import UIKit
 
 /// A varient of `UIEdgeInsets` that only has horizontal inset properties
 public struct HorizontalEdgeInsets: Equatable {
